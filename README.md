@@ -1,4 +1,4 @@
-# Fandeisia - 21700874 - 21800463
+# Fandeisia - LP2 Project
 
 LP2 final project
 
